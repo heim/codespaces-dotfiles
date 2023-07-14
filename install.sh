@@ -4,6 +4,6 @@
 
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 
-# install starshio
+# install starship
 
-curl -fsSL https://starship.rs/install.sh | sh
+curl -fsSL https://starship.rs/install.sh | sh -s -- -y
