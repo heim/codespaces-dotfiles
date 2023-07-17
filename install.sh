@@ -12,4 +12,3 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 #copy files
 cp aliases.zsh ~/.oh-my-zsh/custom/aliases.zsh
 cp gitconfig ~/.gitconfig
->>>>>>> refs/remotes/origin/main
